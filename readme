@@ -1,0 +1,19 @@
+DB URl
+mongodb://localhost:27017
+
+init command
+npm init
+
+rull command
+node app.js
+npm start
+
+package install
+npm install express nodemon
+npm install dotenv
+npm install mongoose
+npm install router
+npm install body-parser
+
+check
+npm i
